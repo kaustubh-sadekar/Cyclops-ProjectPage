@@ -1,0 +1,6 @@
+theme: minima
+title: Cyclops - A Spatial AI based Assistant for Visually Impaired People
+description: Cyclops is a OAK-D and RaspberryPi powered visual assistant based on spatial AI.
+
+header_pages:
+  about.md
